@@ -5,7 +5,7 @@ body {
   font-family: helvetica;
 }
 
-a:active {
+a:hover {
   color: black;
 }
 
